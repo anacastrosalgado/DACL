@@ -5,8 +5,6 @@ This is a repository of the *Dicionário da Academia das Ciências de Lisboa* (D
 
 DACL is only privately available and has being edited with [LeXmart](http://lexmart.eu/). At the same time, the dictionary is being converted to the [TEI Lex-0](https://dariah-eric.github.io/lexicalresources/pages/TEILex0/TEILex0.html#index.xml-body.1_div.2_div.2) format, a streamlined version of the TEI Dictionary Chapter. See: [DLPC](https://github.com/anacastrosalgado/DALPC) repository.
 
-The DLPC, available in print and as a PDF document, was converted into XML using a slightly customized version of the P5 schema of the Text Encoding Initiative (TEI). The XML was generated based on the dictionary PDF file, from which most of the information on the microstructure was recovered automatically.
-
 ##### xxx/
 
 ### Publications
