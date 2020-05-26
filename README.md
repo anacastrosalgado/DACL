@@ -1,9 +1,11 @@
 # DACL – *Dicionário da Academia das Ciências de Lisboa*
 FIST DIGITAL EDITION OF THE PORTUGUESE ACADEMY DICTIONARY
 
-This is a repository of the *Dicionário da Academia das Ciências de Lisboa* (DACL), a new ongoing digital edition of the [Lisbon Academy of Sciences](http://www.acad-ciencias.pt/) Portuguese dictionary.
+This is a repository of the *Dicionário da Academia das Ciências de Lisboa* (DACL), a new ongoing digital edition of the [Lisbon Academy of Sciences](http://www.acad-ciencias.pt/).
 
-DACL is only privately available and has been edited with LeXmart. At the same time, the dictionary is being converted to the [TEI Lex-0](https://dariah-eric.github.io/lexicalresources/pages/TEILex0/TEILex0.html#index.xml-body.1_div.2_div.2) format, a streamlined version of the TEI Dictionary Chapter. See: [DLPC](https://github.com/anacastrosalgado/DALPC) repository.
+DACL is only privately available and has been edited with [LeXmart](http://lexmart.eu/)
+
+LeXmart. At the same time, the dictionary is being converted to the [TEI Lex-0](https://dariah-eric.github.io/lexicalresources/pages/TEILex0/TEILex0.html#index.xml-body.1_div.2_div.2) format, a streamlined version of the TEI Dictionary Chapter. See: [DLPC](https://github.com/anacastrosalgado/DALPC) repository.
 
 ### Format
 The DLPC, available in print and as a PDF document, was converted into XML using a slightly customized version of the P5 schema of the Text Encoding Initiative (TEI). The XML was generated based on the dictionary PDF file, from which most of the information on the microstructure was recovered automatically.
