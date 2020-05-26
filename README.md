@@ -9,7 +9,7 @@ DACL is only privately available and has being edited with [LeXmart](http://lexm
 
 ### Publications
 
-Simões, A., Salgado, A. Costa, R. & Almeida, J. J. (2019). LeXmart: A Smart Tool for Lexicographers. In I. Kosem et al. (eds.), Electronic lexicography in the 21st century. Proceedings of the eLex 2019 conference (pp. 453-466). 1-3 October 2019, Sintra, Portugal. Brno: Lexical Computing CZ, s.r.o. Retrieved from: https://elex.link/elex2019/wp-content/uploads/2019/09/eLex_2019_25.pdf.
+Simões, A., Salgado, A. Costa, R. & Almeida, J. J. (2019). [LeXmart: A Smart Tool for Lexicographers](https://elex.link/elex2019/wp-content/uploads/2019/09/eLex_2019_25.pdf). In I. Kosem et al. (eds.), Electronic lexicography in the 21st century. Proceedings of the eLex 2019 conference (pp. 453-466). 1-3 October 2019, Sintra, Portugal. Brno: Lexical Computing CZ, s.r.o.
 
 Simões, A., Almeida, J. J., Salgado, A. (2016). Building a Dictionary using XML Technology. In 5th Symposium on Languages, Applications and Technologies (SLATE'16), vol. 51 of Open Access Series in Informatics (OASIcs), pp. 14:1–14:8. Germany: Dagstuhl. Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik.
 
