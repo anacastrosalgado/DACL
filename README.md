@@ -1,4 +1,5 @@
-# DACL – *Dicionário da Academia das Ciências de Lisboa* (new digital edition)
+# DACL – *Dicionário da Academia das Ciências de Lisboa*
+FIST DIGITAL EDITION OF THE PORTUGUESE ACADEMY DICTIONARY
 
 This is a repository of the *Dicionário da Academia das Ciências de Lisboa* (DACL), a new ongoing digital edition of the [Lisbon Academy of Sciences](http://www.acad-ciencias.pt/) Portuguese dictionary.
 
