@@ -14,6 +14,8 @@ Simões, A., Salgado, A. Costa, R. & Almeida, J. J. (2019). [LeXmart: A Smart To
 
 Simões, A., Almeida, J. J., Salgado, A. (2016). [Building a Dictionary using XML Technology](http://repositorium.sdum.uminho.pt/bitstream/1822/53513/1/OASIcs-SLATE-2016-14.pdf). In 5th Symposium on Languages, Applications and Technologies (SLATE'16), vol. 51 of Open Access Series in Informatics (OASIcs), pp. 14:1–14:8. Germany: Dagstuhl. Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik.
 
+Costa, R., Carvalho, S., Salgado, A., Simões, A. Tasovac, T. (2020, forthcoming), Ontologie des marques de domaines appliquée aux dictionnaires de langue générale”. *La lexicographie en tant que méthodologie de recherche en linguistique. Revue de Philologie Française et Romane - Langue(s) & Parole*, n.5.
+
 #### Other publications
 
 Salgado, A., Sina, A., Simões, A., Costa, R., McCrae, J. (2020, in press). Challenges of Word Sense Alignment: Portuguese Language Resources. In *7th Workshop on Linked Data in Linguistics: Building tools and infrastructure, LREC 2020: LREC 2020 Workshop*, *Proceedings of 7th Workshop on Linked Data in Linguistics: Building Tools and Infrastructure*, Marseille, France.
