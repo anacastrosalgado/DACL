@@ -3,7 +3,8 @@ FIRST DIGITAL EDITION OF THE PORTUGUESE ACADEMY DICTIONARY
 
 This is a repository of the *Dicionário da Academia das Ciências de Lisboa* (DACL), a new ongoing digital edition of the [Lisbon Academy of Sciences](http://www.acad-ciencias.pt/) Portuguese dictionary.
 
-DACL is only privately available and has being edited with [LeXmart](http://lexmart.eu/). At the same time, the dictionary is being converted to the [TEI Lex-0](https://dariah-eric.github.io/lexicalresources/pages/TEILex0/TEILex0.html#index.xml-body.1_div.2_div.2) format, a streamlined version of the TEI Dictionary Chapter. See: [DLPC](https://github.com/anacastrosalgado/DALPC) repository.
+DACL is only privately available and has being edited with [LeXmart](http://lexmart.eu/).
+The dictionary use [TEI Lex-0](https://dariah-eric.github.io/lexicalresources/pages/TEILex0/TEILex0.html#index.xml-body.1_div.2_div.2) format, a streamlined version of the TEI Dictionary Chapter. See: [DLPC](https://github.com/anacastrosalgado/DALPC) repository.
 
 ##### xxx/
 
