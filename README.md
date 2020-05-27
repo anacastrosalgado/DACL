@@ -31,6 +31,7 @@ Salgado, A, Costa, R., Tasovac, T. (2019).  [Improving the consistency of usage 
 Salgado, A., Costa, R., Tasovac, T., Simões, A. (2019). [TEI Lex-0 In Action: Improving the Encoding of the Dictionary of the Academia das Ciências de Lisboa](https://elex.link/elex2019/wp-content/uploads/2019/09/eLex_2019_23.pdf). In I. Kosem et al. (eds.), *Electronic lexicography in the 21st century. Proceedings of the eLex 2019* conference, pp. 417-433, 1-3 October 2019, Sintra, Portugal. Brno: Lexical Computing CZ, s.r.o.
 
 ### Related works
+
 [Dicionário da Língua Portuguesa Contemporânnea](https://github.com/anacastrosalgado/DLPC)
 
 [OntoDomLab-Med](https://github.com/sarampcarvalho/OntoDomLab-Med) 
