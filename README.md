@@ -29,8 +29,10 @@ Salgado, A, Costa, R., Tasovac, T. (2019).  [Improving the consistency of usage 
 
 Salgado, A., Costa, R., Tasovac, T., Simões, A. (2019). [TEI Lex-0 In Action: Improving the Encoding of the Dictionary of the Academia das Ciências de Lisboa](https://elex.link/elex2019/wp-content/uploads/2019/09/eLex_2019_23.pdf). In I. Kosem et al. (eds.), *Electronic lexicography in the 21st century. Proceedings of the eLex 2019* conference, pp. 417-433, 1-3 October 2019, Sintra, Portugal. Brno: Lexical Computing CZ, s.r.o.
 
+Toma Tasovac, Laurent Romary, Piotr Banski, Jack Bowers, Jesse de Does, Katrien Depuydt, Tomaž Erjavec, Alexander Geyken, Axel Herold, Vera Hildenbrandt, Mohamed Khemakhem, Snežana Petrović, Ana Salgado and Andreas Witt (2018). TEI Lex-0: A baseline encoding for lexicographic data. Version 0.8.5. DARIAH Working Group on Lexical Resources. https://dariah-eric.github.io/lexicalresources/pages/TEILex0/TEILex0.html.
+
 ### Related works
 
-[Dicionário da Língua Portuguesa Contemporânnea](https://github.com/anacastrosalgado/DLPC)
+[Dicionário da Língua Portuguesa Contemporânea](https://github.com/anacastrosalgado/DLPC)
 
 [OntoDomLab-Med](https://github.com/sarampcarvalho/OntoDomLab-Med) 
